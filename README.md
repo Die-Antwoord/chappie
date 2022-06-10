@@ -1,8 +1,7 @@
 # Chappie
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
-
 [DSO](https://discord.gg/7jp8X8nsEW)
